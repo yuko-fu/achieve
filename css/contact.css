@@ -1,0 +1,33 @@
+
+.contact_form tr {
+  width: 640px;
+  height: 7rem;
+}
+
+
+.contact_form th {
+  text-align: right;
+  width: 150px;
+  padding-right: 10px;
+}
+
+.contact_form td input.contact_sell  {
+  width: 480px;
+}
+
+.contact_form td textarea {
+  width: 480px;
+}
+
+.contact_form input.submit_b {
+  font-size: 3rem;
+  display: block;
+  margin: 10px auto;
+  background-color: #008b8b;
+  color: #fff;
+  
+}
+
+.contact_form input.submit_b:hover {
+  opacity: 0.5;
+}
